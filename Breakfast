@@ -1,5 +1,5 @@
 <?php 
-You can contact us for your breakfast , lunch and dinner.
+ echo "You can contact us for your breakfast , lunch and dinner.
 How may I be of help to you?
-hi
+hi"
 ?>
